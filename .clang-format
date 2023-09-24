@@ -1,0 +1,8 @@
+ColumnLimit: 0
+AlignOperands: DontAlign
+IndentAccessModifiers: true
+
+UseTab: ForContinuationAndIndentation
+IndentWidth: 4
+TabWidth: 4
+IndentAccessModifiers: true
